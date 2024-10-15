@@ -1,11 +1,11 @@
 """
 CPS 109 suggested Programming Exercises
 Lists 2
-Instructions 
+Instructions
 ===============================
 
-This module contians the solutions to all the Lists 2 coding bat questions 
-which were suggested for midterm 1 preperation. 
+This module contians the solutions to all the Lists 2 coding bat questions
+which were suggested for midterm 1 preperation.
 
 To test the functions, just run cell, and the auto test should occur
 if you are in pycharm, right click and press run file (or run doctests)
@@ -16,24 +16,25 @@ i.e of fully passed:
     Test passed.
 
 i.e of failure:
-    
+
     1 items had failures:
        1 of   3 in __main__.makes10
     37 tests in 13 items.
     36 passed and 1 failed.
     ***Test Failed*** 1 failures.
-    
-    ^ that is refering to this test: 
+
+    ^ that is refering to this test:
     >>> makes10(9, 10)
     False
 
-This file is an open resource for your learning! I will also provide 
-file with all the blank fxns and the unit test file to simulate a test 
+This file is an open resource for your learning! I will also provide
+file with all the blank fxns and the unit test file to simulate a test
 env.
 ==============================
 @author: Emaan Iqbal
 https://github.com/emaaniqbal
 """
+
 
 def count_evens(nums):
     """
@@ -45,17 +46,18 @@ def count_evens(nums):
     3
     >>> count_evens([1, 3, 5])
     0
-    >>> count_evens([]) 
+    >>> count_evens([])
     0
     >>> count_evens([1, 2, 3, 4, 5, 6])
     3
     """
     pass
 
+
 def big_diff(nums):
     """
     Return the difference between the largest and smallest values in the array.
-    
+
     >>> big_diff([10, 3, 5, 6])
     7
     >>> big_diff([7, 2, 10, 9])
@@ -73,9 +75,10 @@ def big_diff(nums):
     """
     pass
 
+
 def centered_average(nums):
     """
-    Return the "centered" average of an array of ints, ignoring the largest 
+    Return the "centered" average of an array of ints, ignoring the largest
     and smallest values.
 
     >>> centered_average([1, 2, 3, 4, 100])
@@ -91,11 +94,12 @@ def centered_average(nums):
     """
     pass
 
+
 def sum13(nums):
     """
     Return the sum of the numbers in the array, returning 0 for an empty array.
     The number 13 does not count, and numbers that come immediately after a 13 do not count.
-    
+
     >>> sum13([1, 2, 2, 1])
     6
     >>> sum13([1, 1])
@@ -114,7 +118,51 @@ def sum13(nums):
     6
     """
     pass
-  
+
+
+def sum67(nums):
+    """
+    Calculate the sum of the numbers in the given list, ignoring sections of numbers that start with a 6
+    and extend to the next 7 (inclusive).
+
+    Specifically, for every occurrence of a 6, all subsequent numbers will be ignored until a 7 is encountered,
+    which will also be ignored in the sum. If there are no numbers in the list, the function should return 0.
+
+    >>> sum67([1, 2, 2])
+    5
+    >>> sum67([1, 2, 2, 6, 99, 99, 7])
+    5
+    >>> sum67([1, 1, 6, 7, 2])
+    4
+    >>> sum67([])  # No numbers
+    0
+    >>> sum67([6, 1, 2, 3, 7, 4, 5])  # Ignoring 1, 2, 3
+    15
+    """
+
+
+def has22(nums):
+    """
+    Check if the given list of integers contains a 2 next to another 2.
+    The function should return True if there is at least one occurrence of the sequence [2, 2]
+    in the list, and False otherwise.
+
+    >>> has22([1, 2, 2])
+    True
+    >>> has22([1, 2, 1, 2])
+    False
+    >>> has22([2, 1, 2])
+    False
+    >>> has22([2, 2, 1])
+    True
+    >>> has22([2, 2])
+    True
+    >>> has22([])
+    False
+    """
+
+
 if __name__ == '__main__':
     import doctest
+
     doctest.testmod(verbose=True)
