@@ -48,6 +48,52 @@ The functions are blank for you to solve. Note that some have the pass parameter
 
 **Solutions to problems to be added**
 
+Aside: How do I know I passed a test?
+===============================
+
+**In PyCharm**
+
+**Doc-strings** passing will appear as:
+
+
+![image](https://github.com/user-attachments/assets/82b18d40-eb02-4443-ae45-982bebdb48de)
+
+
+***Doc-strings** failing will appear as:
+
+
+![image](https://github.com/user-attachments/assets/db9f2f49-8b39-47b9-826d-91eb593883b5)
+
+
+**Unit tests** passing will appear as:
+
+
+![image](https://github.com/user-attachments/assets/57404422-1c61-45aa-9133-b43c3c2e0413)
+
+
+**Unit tests** failing will appear as:
+
+
+![image](https://github.com/user-attachments/assets/d9609317-31b1-4c6f-ab0d-ac45409e8468)
+
+
+
+**In Spyder**
+
+
+
+**Doc-strings** passing will appear as:
+
+
+![image](https://github.com/user-attachments/assets/9529e51a-7d8e-4377-8101-1bbef99dc7b0)
+
+
+**Doc-strings** failing will appear as:
+
+
+![image](https://github.com/user-attachments/assets/61bd98ef-c3c4-459e-af01-58113a3cc2b6)
+
+
 Crd:
 ===============================
 @author: Emaan Iqbal
