@@ -82,13 +82,13 @@ Aside: How do I know I passed a test?
 
 
 
-**Doc-strings** passing will appear as:
+**Passing** will appear as:
 
 
 ![image](https://github.com/user-attachments/assets/9529e51a-7d8e-4377-8101-1bbef99dc7b0)
 
 
-**Doc-strings** failing will appear as:
+**Failing** will appear as:
 
 
 ![image](https://github.com/user-attachments/assets/61bd98ef-c3c4-459e-af01-58113a3cc2b6)
