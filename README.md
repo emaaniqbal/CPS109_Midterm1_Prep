@@ -39,7 +39,7 @@ To test the doc-strings, simply run the file, and it will inform you how many te
 To test your unit tests, RUN THE UNIT TEST FILE. 
 
 
-These are both methods of testing, sometimes testing with doc-strings is easier if you encounter errors with your unit-testing- thus, I have provided 2 means to testing functions. 
+These are both methods of testing, sometimes testing with doc-strings is easier if you encounter errors with your unit-testing- thus, I have provided the 2 means to testing functions. 
 
 
 
