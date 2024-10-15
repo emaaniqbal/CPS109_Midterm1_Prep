@@ -59,7 +59,7 @@ Aside: How do I know I passed a test?
 ![image](https://github.com/user-attachments/assets/82b18d40-eb02-4443-ae45-982bebdb48de)
 
 
-***Doc-strings** failing will appear as:
+**Doc-strings** failing will appear as:
 
 
 ![image](https://github.com/user-attachments/assets/db9f2f49-8b39-47b9-826d-91eb593883b5)
