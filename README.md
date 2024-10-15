@@ -10,7 +10,7 @@ This Python repo contains the blank problems of assigned lab questions, mock-qui
 
 
 
-It is suggested to solve these problems before moving on to the CCPS 109 questions provided on your D2L (see announcements). You will struggle to complete the CCPS 109 problems if you cannot do these. The addtional problems amp up the challenge - some are like a "thinking" question you may have done in your highschool courses. 
+It is suggested to solve these problems before moving on to the CCPS 109 questions provided on your D2L (see announcements). You will struggle to complete the CCPS 109 problems if you cannot do these. Those CCPS questions are addtional problems amp up the challenge - some are like  "thinking" questions you may have done in your highschool courses. 
 
 
 
