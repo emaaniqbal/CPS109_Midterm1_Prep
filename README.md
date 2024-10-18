@@ -22,7 +22,7 @@ In general, make sure you have a good grasp of the concepts/ problems provided h
 
 
 
-You are provided with a blank file and test tile.
+You are provided with a blank file and test file.
 Download the files and ensure they are in the same location (see image).
 
 
