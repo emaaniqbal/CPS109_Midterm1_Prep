@@ -14,10 +14,6 @@ It is suggested to solve these problems before moving on to the CCPS 109 questio
 
 
 
-**Problems/Notes are still to be added. If you have requests for problems/questions to be solved, contact me** 
-
-
-
 In general, make sure you have a good grasp of the concepts/ problems provided here.
 
 
