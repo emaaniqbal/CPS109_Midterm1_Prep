@@ -42,7 +42,6 @@ These are both methods of testing, sometimes testing with doc-strings is easier 
 The functions are blank for you to solve. Note that some have the pass parameter, remove that when you start creating/testing your function. 
 
 
-**Solutions to problems to be added**
 
 Aside: How do I know I passed a test?
 ===============================
